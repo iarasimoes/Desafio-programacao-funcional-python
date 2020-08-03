@@ -35,7 +35,7 @@ O valor total deve ser arredondado em 2 casas decimais.
     ]
 
 
-## Tópicos
+## Tópicos 
 
 Neste desafio você vai aprender:
 
