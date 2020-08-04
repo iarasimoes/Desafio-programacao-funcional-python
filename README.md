@@ -1,8 +1,9 @@
+<<<<<<< HEAD 
 # Desafio programação funcional
 
 Em uma empresa de telefonia existe um software responsável pela tarifação das ligações, ele recebe um relatório com as ligações e calcula o valor da fatura de cada cliente, baseado nas regras de tarifação diurna ou noturna.
     
-    Tarifação:
+    Tarifação: 
     Diurna - entre 6h00 e 22h00 :
         * Encargo permanente: R $ 0,36 (encargos fixos que são usados ​​para pagar o custo da conexão);
         * Taxa de ligação / minuto: R $ 0,09 (não há cobrança fracionada. *A cobrança se aplica a cada ciclo concluído de 60 segundos)*.
@@ -56,3 +57,6 @@ O recomendado é você utilizar um [ambiente virtual](https://pythonacademy.com.
     pip install -r requirements.txt
 
 Ao terminar o desafio, você pode sair do ambiente criado com o comando `deactivate`
+=======
+# Desafio-programa-o-funcional-Python
+>>>>>>> 8512ec1229e13d1aeac5821bd6b88e346f882b69
